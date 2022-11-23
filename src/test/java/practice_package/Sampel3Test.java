@@ -4,13 +4,13 @@ import org.testng.annotations.Test;
 
 public class Sampel3Test {
 	
-	@Test(groups = "regression")
+	@Test
 	public void script5()
 	{
 		System.out.println("script5");
 	}
 	
-	@Test(groups = "smoke")
+	@Test
 	public void script6()
 	{
 		System.out.println("script6");

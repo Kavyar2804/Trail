@@ -2,7 +2,7 @@ package practice_package;
 
 import org.testng.annotations.Test;
 
-public class Samplenew {
+public class SamplenewTest {
 	
 	@Test
 	public void script3()
