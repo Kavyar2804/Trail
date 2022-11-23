@@ -2,7 +2,7 @@ package trail;
 
 import org.testng.annotations.Test;
 
-public class One {
+public class OneTest {
 	
 	@Test
 	public void sample()
